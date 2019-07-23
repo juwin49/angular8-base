@@ -1,0 +1,18 @@
+环境：
+npm
+node -v 10.9.0或更高
+
+部署：
+安装Angular CLI脚手架：npm install -g @angular/cli
+创建工作区和初始应用： ng new my-app
+
+运行：
+进入工作区目录：cd my-app
+运行服务器（默认打开4200端口）：ng serve --open
+
+基本语法常用特性：
+*ngFor
+*ngIf
+插值表达式 {{}}
+属性绑定 []
+事件绑定 ()
